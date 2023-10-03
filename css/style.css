@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* .button {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    outline: 2px solid #fff;
+    padding: 30px 60px;
+    position: relative;
+    overflow: hidden;
+    transition: color 1s;
+} */
+.caixa {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+
+
+}
+button {
+    width: 170px;
+    height: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+    padding: 5px;
+    background-color: aqua;
+    border-radius: 20px;
+    border: solid #000000 4px;
+    position: relative; 
+    animation: animatelogin 10s linear infinite ;
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    
+
+}
+
+ @keyframes animatelogin {
+  100% {
+    filter: hue-rotate(360deg);
+    
+  }
+}
+button:hover {
+    background-color: #fff;
+
+transform: scale(1.1);
+
+}
+/* .button:hover {
+    color: rgb(255, 0, 174);
+}
+
+.button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -50px;
+    width: 0;
+    height: 100%;
+    background-color: #fff;
+    transform: skew(35deg);
+    z-index: -1;
+    transition: width 1s;
+}
+.button:hover::before {
+    width: 150%;
+} */
+
+body {
+    
+    background-color: rgb(71, 0, 153);
+}
+
+
+
+h1 {
+text-align: center;
+color: seashell;
+position: relative;
+margin-top: 20px;
+margin-bottom: 0;
+font-family: 'Roboto', sans-serif;
+-webkit-text-stroke: 3px #000;
+font-size: 80px;
+}
