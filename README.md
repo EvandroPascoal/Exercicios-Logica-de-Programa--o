@@ -1,0 +1,5 @@
+![Captura de tela 2023-12-14 142811](https://github.com/EvandroPascoal/Exercicios-Logica-de-Programa-JavaScript/assets/144403154/f6a98c63-5096-49f1-a644-16e93161c892)
+![Captura de tela 2023-12-14 142758](https://github.com/EvandroPascoal/Exercicios-Logica-de-Programa-JavaScript/assets/144403154/d55f4a01-b23f-4e5a-9d83-e5a5d230aede)
+![Captura de tela 2023-12-14 142743](https://github.com/EvandroPascoal/Exercicios-Logica-de-Programa-JavaScript/assets/144403154/9f10e956-d0ae-416e-b1cf-cc5029663b7e)
+![Captura de tela 2023-12-14 142728](https://github.com/EvandroPascoal/Exercicios-Logica-de-Programa-JavaScript/assets/144403154/65680620-65e8-44d7-b47a-89ce0d10df61)
+![Captura de tela 2023-12-14 142825](https://github.com/EvandroPascoal/Exercicios-Logica-de-Programa-JavaScript/assets/144403154/58ffe262-f85d-4a0b-a764-0cb50fe0df46)
